@@ -36,3 +36,11 @@ enableRobotsTXT = true
     lineNumbersInTable = false
     noClasses = false
     tabWidth = 2
+
+[deployment]
+[[deployment.targets]]
+name = "s3-deployment"
+
+# S3; see https://gocloud.dev/howto/blob/#s3
+# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
+URL = "s3://samko-portfolio-311008325132?region=eu-west-1"
