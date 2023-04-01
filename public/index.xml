@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Samkove umelecke diela</title>
+    <title>Samkové umelecké diela</title>
     <link>http://example.org/</link>
-    <description>Recent content on Samkove umelecke diela</description>
+    <description>Recent content on Samkové umelecké diela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Labut</title>
+      <title>Labuť</title>
       <link>http://example.org/post/labut/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/post/labut/</guid>
-      <description>Malba labute vytvorena na tvorivom atelieri Bublinka.</description>
+      <description>Maľba labute vytvorená na tvorivom ateliéri Bublinka.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/about/</guid>
-      <description>Caute, moje meno je Samko ! Som mlady zacinajuci umelec.</description>
+      <description>Čaute, moje meno je Samko ! Som mladý začínajúci umelec.</description>
     </item>
     
   </channel>
