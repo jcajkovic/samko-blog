@@ -1,0 +1,8 @@
+- item: O mne
+  url: about/
+- item: Vytvory
+  url: ""
+# - item: Kategorie
+#   url: categories
+- item: Tagy
+  url: tags

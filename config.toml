@@ -1,0 +1,41 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Samkove umelecke diela"
+theme = "newsroom"
+# googleAnalytics = "UA-167869327-1"
+enableRobotsTXT = true
+	
+[params]
+# favicon = "/images/fav.png"
+    home_title = "Caute, moje meno je Samko !"
+    home_subtitle = "Som mlady zacinajuci umelec."
+    home_description = "and also has little experience in Mobile development and Design."
+    email = "samko.cajkovic@gmail.com"
+    location = "Vinicne, Slovensko"
+    # locale = "en_US"
+    # ga_analytics = "" # google analytics ID e.g UA-116386578-1
+    # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
+    # twitter = "" # twitter handle e.g @weru
+    # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
+    # uncomment the line below will disable darkmode by default.
+    # uncomment and set value below to either "light" or "dark" to make default mode dark.
+    defaultMode = "light" # Note that the UI control for toggling darkmode will remain in place. This way, the user can decide which mode they would like to use while browsing your website
+    logo = "" # if the value is an empty string, the site title will be shown instead
+    faviconsDir = "images/icons/" # with a trailing slash
+    blogDir = "post" # edit
+
+
+[markup]
+  [markup.goldmark.renderer]
+    hardWraps = false
+    unsafe = false # change to true to enable inclusion of rawHTML and math functions
+    xhtml = false
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+    tabWidth = 2
