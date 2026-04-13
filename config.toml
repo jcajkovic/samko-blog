@@ -25,7 +25,7 @@ enableRobotsTXT = true
 [markup]
   [markup.goldmark.renderer]
     hardWraps = false
-    unsafe = false # change to true to enable inclusion of rawHTML and math functions
+    unsafe = true # enable raw HTML in markdown content
     xhtml = false
   [markup.highlight]
     codeFences = true
