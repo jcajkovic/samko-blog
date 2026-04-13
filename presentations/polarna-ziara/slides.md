@@ -12,11 +12,25 @@ drawings:
   persist: false
 transition: slide-left
 mdc: true
+hideInToc: true
+navigator: false
+download: false
+exportFilename: polarna-ziara
 background: /images/slide-1-cover.jpg
 layout: cover
 ---
 
-&nbsp;
+<style>
+/* Hide the navigation/slides menu button */
+.slidev-nav-total,
+.slidev-navigation,
+nav.slidev-nav,
+button[title="Slides Overview"],
+button[title="Toggle Overview"],
+.slidev-icon-btn {
+  display: none !important;
+}
+</style>
 
 ---
 layout: image
