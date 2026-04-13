@@ -11,7 +11,7 @@ highlighter: shiki
 drawings:
   persist: false
 transition: slide-left
-mdc: true
+mdc: false
 hideInToc: true
 navigator: false
 download: false
