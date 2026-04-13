@@ -16,7 +16,7 @@ hideInToc: true
 navigator: false
 download: false
 exportFilename: polarna-ziara
-background: /images/slide-1-cover.jpg
+background: /images/slide-1-cover.png
 layout: cover
 ---
 
@@ -34,30 +34,30 @@ button[title="Toggle Overview"],
 
 ---
 layout: image
-image: /images/slide-2-mytologia.jpg
+image: /images/slide-2-mytologia.png
 ---
 
 ---
 layout: image
-image: /images/slide-3-vznik.jpg
+image: /images/slide-3-vznik.png
 ---
 
 ---
 layout: image
-image: /images/slide-4-zaujimavost.jpg
+image: /images/slide-4-zaujimavost.png
 ---
 
 ---
 layout: image
-image: /images/slide-5-fotky.jpg
+image: /images/slide-5-fotky.png
 ---
 
 ---
 layout: image
-image: /images/slide-6-mimo-sustavy.jpg
+image: /images/slide-6-mimo-sustavy.png
 ---
 
 ---
 layout: image
-image: /images/slide-7-dakujem.jpg
+image: /images/slide-7-dakujem.png
 ---

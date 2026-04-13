@@ -5,7 +5,7 @@ date: 2025-04-13
 title: Polárna žiara
 description: "Prezentácia o polárnej žiare - Aurora Borealis a Aurora Australis"
 tags: ["prezentacia", "skola", "priroda"]
-image: "polarna-ziara-cover.jpg"
+image: "polarna-ziara-cover.png"
 ---
 > ***Školská prezentácia o polárnej žiare — jej vzniku, mytológii a zaujímavostiach.***
 
