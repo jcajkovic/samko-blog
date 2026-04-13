@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Samkové umelecké diela"
+title = "Samko Čajkovič - Projekty"
 theme = "newsroom"
 # googleAnalytics = "UA-167869327-1"
 enableRobotsTXT = true
